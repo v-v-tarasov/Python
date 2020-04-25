@@ -1,2 +1,2 @@
-# python-my-lesson
-Python: My lesson.
+# Python
+Python
